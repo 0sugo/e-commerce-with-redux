@@ -1,4 +1,4 @@
-import cartItems from "../cartItems";
+// import cartItems from "../cartItems";
 import { clearCart } from "../features/cart/cartSlice";
 import CartItem from "./CartItem";
 import { useSelector } from "react-redux";
